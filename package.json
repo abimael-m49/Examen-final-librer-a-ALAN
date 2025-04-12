@@ -1,0 +1,19 @@
+{
+  "name": "examen-final-librer-a-alan",
+  "version": "1.0.0",
+  "description": "Exámen 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abimael-m49/Examen-final-librer-a-ALAN.git"
+  },
+  "author": "Alan Matzir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abimael-m49/Examen-final-librer-a-ALAN/issues"
+  },
+  "homepage": "https://github.com/abimael-m49/Examen-final-librer-a-ALAN#readme"
+}
